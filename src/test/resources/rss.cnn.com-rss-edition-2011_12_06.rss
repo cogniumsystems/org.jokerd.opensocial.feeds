@@ -1,0 +1,89 @@
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://rss.cnn.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel>
+<title>CNN.com</title>
+<link>http://edition.cnn.com/?eref=edition</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-us</language>
+<copyright>© 2011 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 06 Dec 2011 05:50:48 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com</title>
+<link>http://edition.cnn.com/?eref=edition</link>
+<url>http://i2.cdn.turner.com/cnn/.element/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://rss.cnn.com/rss/edition" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+<title>18 killed in twin Afghan blasts</title>
+<guid>http://edition.cnn.com/2011/12/06/world/asia/afghanistan-violence/index.html?eref=edition</guid>
+<link>http://edition.cnn.com/2011/12/06/world/asia/afghanistan-violence/index.html?eref=edition</link>
+<description>Two explosions in the Afghan cities of Kabul and Mazar-e Sharif kill at least 18 people on the Shiite holy day of Ashura, police officials say.</description>
+<pubDate>Tue, 06 Dec 2011 05:36:20 EST</pubDate>
+</item>
+<item>
+<title>Merkel, Sarkozy agree on fiscal pact</title>
+<guid>http://edition.cnn.com/2011/12/05/business/euro-crisis/index.html?eref=edition</guid>
+<link>http://edition.cnn.com/2011/12/05/business/euro-crisis/index.html?eref=edition</link>
+<description>Ahead of a key European summit this week, the leaders of France and Germany agree a financial deal for the eurozone. The agreement comes amid the bloc&amp;apos;s debt crisis.</description>
+<pubDate>Mon, 05 Dec 2011 14:50:17 EST</pubDate>
+</item>
+<item>
+<title>Italian PM presents $41B budget plan</title>
+<guid>http://edition.cnn.com/2011/12/05/world/europe/italy-budget/index.html?eref=edition</guid>
+<link>http://edition.cnn.com/2011/12/05/world/europe/italy-budget/index.html?eref=edition</link>
+<description>Italy&amp;apos;s new prime minister will present to parliament Monday a proposal for ?30 billion ($41 billion) in new taxes and spending cuts over two years, including reductions to future pensions, in an effort to end a budget crisis that has clouded the future of Europe&amp;apos;s common currency.</description>
+<pubDate>Tue, 06 Dec 2011 00:11:45 EST</pubDate>
+</item>
+<item>
+<title>Clinton seeks Russia election probe</title>
+<guid>http://edition.cnn.com/2011/12/06/world/europe/russia-elections-clinton/index.html?eref=edition</guid>
+<link>http://edition.cnn.com/2011/12/06/world/europe/russia-elections-clinton/index.html?eref=edition</link>
+<description>Secretary of State Hillary Clinton called for a &amp;quot;full investigation&amp;quot; of irregularities in Sunday&amp;apos;s parliamentary elections in which the party of Russian Prime Minister Vladimir Putin appears to have suffered a serious setback.</description>
+<pubDate>Tue, 06 Dec 2011 05:44:25 EST</pubDate>
+</item>
+<item>
+<title>Syria opposition warns Iran, Hezbollah</title>
+<guid>http://edition.cnn.com/2011/12/06/world/meast/syria-unrest/index.html?eref=edition</guid>
+<link>http://edition.cnn.com/2011/12/06/world/meast/syria-unrest/index.html?eref=edition</link>
+<description>Iran and Lebanon&amp;apos;s Hezbollah movement are risking their future ties with Syria by supporting Syrian leader Bashar al-Assad now, a Syrian opposition leader says.</description>
+<pubDate>Tue, 06 Dec 2011 01:49:39 EST</pubDate>
+</item>
+<item>
+<title>U.N. condemns Mexico shooting</title>
+<guid>http://edition.cnn.com/2011/12/06/world/americas/mexico-un-activist-shot/index.html?eref=edition</guid>
+<link>http://edition.cnn.com/2011/12/06/world/americas/mexico-un-activist-shot/index.html?eref=edition</link>
+<description>The United Nations Office of the High Commissioner for Human Rights in Mexico has denounced the shooting of an activist who survived being shot multiple times in Ciudad Juarez, Mexico, by an unknown attacker.</description>
+<pubDate>Tue, 06 Dec 2011 03:25:33 EST</pubDate>
+</item>
+<item>
+<title>Japan tsunami saw 'merged' waves</title>
+<guid>http://edition.cnn.com/2011/12/06/world/asia/japan-tsunami-nasa/index.html?eref=edition</guid>
+<link>http://edition.cnn.com/2011/12/06/world/asia/japan-tsunami-nasa/index.html?eref=edition</link>
+<description>The devastating wall of water that struck Japan in March was the result of at least two waves that combined to create a more powerful tsunami, U.S. scientists said Monday.</description>
+<pubDate>Tue, 06 Dec 2011 05:29:16 EST</pubDate>
+</item>
+<item>
+<title>Broadcaster fined for Jiang death story</title>
+<guid>http://edition.cnn.com/2011/12/06/world/asia/hong-kong-jiang-zemin-rumor/index.html?eref=edition</guid>
+<link>http://edition.cnn.com/2011/12/06/world/asia/hong-kong-jiang-zemin-rumor/index.html?eref=edition</link>
+<description>A television station in Hong Kong has been fined for airing a report in July that suggested former Chinese President Jiang Zemin had died, regulators said Tuesday.</description>
+<pubDate>Tue, 06 Dec 2011 03:35:05 EST</pubDate>
+</item>
+<item>
+<title>UAE PM discounts fear of Iran</title>
+<guid>http://edition.cnn.com/2011/12/05/world/meast/iran-nuclear-uae/index.html?eref=edition</guid>
+<link>http://edition.cnn.com/2011/12/05/world/meast/iran-nuclear-uae/index.html?eref=edition</link>
+<description>The leader of the United Arab Emirates discounts concerns about a nuclear-armed Iran in a CNN interview, saying Tehran would find the ultimate weapon of little use.</description>
+<pubDate>Tue, 06 Dec 2011 05:12:36 EST</pubDate>
+</item>
+<item>
+<title>France admits nuclear security lapses</title>
+<guid>http://edition.cnn.com/2011/12/05/world/europe/france-greenpeace-nuclear/index.html?eref=edition</guid>
+<link>http://edition.cnn.com/2011/12/05/world/europe/france-greenpeace-nuclear/index.html?eref=edition</link>
+<description>France&amp;apos;s interior minister admitted Monday that lapses in security made it possible for Greenpeace activists to gain entry to a nuclear power plant southeast of Paris.</description>
+<pubDate>Mon, 05 Dec 2011 21:48:28 EST</pubDate>
+</item>
+</channel></rss>
